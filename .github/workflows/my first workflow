@@ -1,4 +1,4 @@
-name: CI Build for Docker Action
+name: My First Workflow
 on:
   push:
     branches: [ main ]
